@@ -423,7 +423,6 @@ const DivCustomizer = () => {
                   <div className="w-full h-full flex items-start justify-start p-4">
                     <motion.div
                       style={styles}
-                      animate={styles}
                       transition={{ duration: 0.3 }}
                       className="relative"
                     >
